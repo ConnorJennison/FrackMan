@@ -7,3 +7,5 @@ deplete his life points, or can convince them to leave by dropping gold that can
 This project was assigned in UCLA's CS32 course during Winter Quarter 2016. The project is focused on learning how to organize
 a program on a large scale and create several different classes that inheriet traits from each other and organize them in the 
 way that makes most sense. 
+
+To see the specifications of this project, please refer to the spec.pdf
